@@ -1,0 +1,31 @@
+sample,patient,cancer_type,time_point,treatment,source,technology,n_cells
+su001_post,su001,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,L arm,10x,10429
+su001_pre,su001,Cutaneous Basal Cell Carcinoma,pre,None,L arm,10x,1149
+su002_post,su002,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,Nose,10x,205
+su002_pre,su002,Cutaneous Basal Cell Carcinoma,pre,None,Nose,10x,143
+su003_post,su003,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,R chest,10x,824
+su003_pre,su003,Cutaneous Basal Cell Carcinoma,pre,None,R arm,10x,235
+su004_post,su004,Cutaneous Basal Cell Carcinoma,post,Cemiplimab,Knee,10x,813
+su004_pre,su004,Cutaneous Basal Cell Carcinoma,pre,None,Knee,10x,706
+su005_post,su005,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,L ear,10x,3797
+su005_pre,su005,Cutaneous Basal Cell Carcinoma,pre,None,L ear,10x,2712
+su006_post,su006,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,R neck,10x,4051
+su006_pre,su006,Cutaneous Basal Cell Carcinoma,pre,None,R neck,10x,5207
+su007_post,su007,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,L cheek,10x,249
+su007_pre,su007,Cutaneous Basal Cell Carcinoma,pre,None,L cheek,10x,1925
+su008_post,su008,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,R arm,10x,5032
+su008_pre,su008,Cutaneous Basal Cell Carcinoma,pre,None,R arm,10x,2540
+su009_post,su009,Cutaneous Basal Cell Carcinoma,post,Cemiplimab,L forehead,10x,4991
+su009_pre,su009,Cutaneous Basal Cell Carcinoma,pre,None,L forehead,10x,4063
+su010-S_post,su010-S,Cutaneous Squamous Cell Carcinoma,post,Pembrolizumab,R calf,10x,6495
+su010-S_pre,su010-S,Cutaneous Squamous Cell Carcinoma,pre,None,R calf,10x,3980
+su010_post,su010,Cutaneous Basal Cell Carcinoma,post,Pembrolizumab,R calf,10x,528
+su010_pre,su010,Cutaneous Basal Cell Carcinoma,pre,None,R calf,10x,108
+su011_post,su011,Cutaneous Squamous Cell Carcinoma,post,Cemiplimab,L scalp,10x,4306
+su011_pre,su011,Cutaneous Squamous Cell Carcinoma,pre,None,L scalp,10x,3246
+su012_post,su012,Cutaneous Basal Cell Carcinoma,post,Cemiplimab,L cheek,10x,783
+su012_pre,su012,Cutaneous Basal Cell Carcinoma,pre,None,L cheek,10x,2540
+su013_post,su013,Cutaneous Squamous Cell Carcinoma,post,Pembrolizumab,scalp,10x,69
+su013_pre,su013,Cutaneous Squamous Cell Carcinoma,pre,None,scalp,10x,4488
+su014_post,su014,Cutaneous Squamous Cell Carcinoma,post,Cemiplimab,R neck,10x,624
+su014_pre,su014,Cutaneous Squamous Cell Carcinoma,pre,None,R neck,10x,2808
